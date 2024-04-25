@@ -1,0 +1,26 @@
+﻿code,English Description,Chinese Description (TC),Chinese Description (SC),BUSINESS_TYPE
+0,Buying Office,採購辦事處,采购办事处,Merchandise
+1,Importer,入口商,入口商,Merchandise
+2,Exporter,出口商,出口商,Merchandise
+3,Wholesaler,批發商,批发商,Merchandise
+4,Manufacturer,製造商,制造商,Merchandise
+5,Mail Order Co.,郵購公司,邮购公司,Merchandise
+6,Chain Store,連鎖店,连锁店,Merchandise
+8,Export Agent,出口代理,出口代理,Merchandise
+9,Import Agent,入口代理,入口代理,Merchandise
+14,Retailer,零售商,零售商,Merchandise
+16,Buying Cooperative,採購合作社,采购合作社,Merchandise
+17,e-tailer,網上零售商,网上零售商,Merchandise
+18,Service Company,服務行業公司,服务行业公司,Service
+19,Distributor,分銷商,分销商,Merchandise
+20,Department Store,百貨公司,百货公司,Merchandise
+21,Trade/Industrial Organisation,工商組織,工商组织,Merchandise & Service
+22,Shopping Mall,購物商場,购物商场,Merchandise
+23,Charity / Welfare Organisation,慈善/福利組織,慈善/福利组织,Non-trade
+24,Consulate and Trade Commission,領事館/商務專員公署,领事馆/商务专员公署,Merchandise & Service
+25,Government,政府機構,政府机构,Merchandise & Service
+26,Private Individual,個人,个人,Non-trade
+27,Professional Association,專業協會,专业协会,Merchandise & Service
+28,Religious Group,宗教團體,宗教团体,Non-trade
+29,Statutory Body,公營機構,公营机构,Merchandise & Service
+50,Others,其他,其他,Merchandise & Service

@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="195" failures="0" errors="0" time="55.247">
+  <testsuite name="queryRegisteredFairCodeList" errors="0" failures="0" skipped="0" timestamp="2022-08-11T05:36:39" time="2.75" tests="21">
+    <testcase classname="queryRegisteredFairCodeList returns valid results" name="queryRegisteredFairCodeList returns valid results" time="0.004">
+    </testcase>
+    <testcase classname="queryRegisteredFairCodeList throw exception" name="queryRegisteredFairCodeList throw exception" time="0.005">
+    </testcase>
+    <testcase classname="queryFairRegProfileForEditByQueryBuilder returns valid results" name="queryFairRegProfileForEditByQueryBuilder returns valid results" time="0.002">
+    </testcase>
+    <testcase classname="queryFairRegProfileForEditByQueryBuilder returns valid results" name="queryFairRegProfileForEditByQueryBuilder returns valid results" time="0.001">
+    </testcase>
+    <testcase classname="queryFairRegProfileForEditByQueryBuilder returns valid results" name="queryFairRegProfileForEditByQueryBuilder returns valid results" time="0.001">
+    </testcase>
+    <testcase classname="queryFairRegProfileForEdit returns valid results for type = backend" name="queryFairRegProfileForEdit returns valid results for type = backend" time="0.002">
+    </testcase>
+    <testcase classname="queryFairRegProfileForEdit returns valid results for type = frontend" name="queryFairRegProfileForEdit returns valid results for type = frontend" time="0.001">
+    </testcase>
+    <testcase classname="queryFairRegProfileForEdit return null" name="queryFairRegProfileForEdit return null" time="0">
+    </testcase>
+    <testcase classname="queryFairRegProfileForEdit throw exception" name="queryFairRegProfileForEdit throw exception" time="0.001">
+    </testcase>
+    <testcase classname="queryFairRegProfileForBackendEditCheckingByRecordId returns valid results" name="queryFairRegProfileForBackendEditCheckingByRecordId returns valid results" time="0.002">
+    </testcase>
+    <testcase classname="queryFairRegProfileForBackendEditCheckingByRecordId returns null" name="queryFairRegProfileForBackendEditCheckingByRecordId returns null" time="0.001">
+    </testcase>
+    <testcase classname="queryFairRegProfileForBackendEditCheckingByRecordId throw exception" name="queryFairRegProfileForBackendEditCheckingByRecordId throw exception" time="0">
+    </testcase>
+    <testcase classname="updateFormSubmissionKey successful update" name="updateFormSubmissionKey successful update" time="0.002">
+    </testcase>
+    <testcase classname="updateFormSubmissionKey throw exception" name="updateFormSubmissionKey throw exception" time="0.014">
+    </testcase>
+    <testcase classname="getProfileWithMandatoryBM returns valid results" name="getProfileWithMandatoryBM returns valid results" time="0.002">
+    </testcase>
+    <testcase classname="getProfileWithMandatoryBM return null" name="getProfileWithMandatoryBM return null" time="0">
+    </testcase>
+    <testcase classname="getProfileWithMandatoryBM throw exception" name="getProfileWithMandatoryBM throw exception" time="0.001">
+    </testcase>
+    <testcase classname="updateProductInterestPerFair successful update" name="updateProductInterestPerFair successful update" time="0.003">
+    </testcase>
+    <testcase classname="updateProductInterestPerFair throw exception" name="updateProductInterestPerFair throw exception" time="0.002">
+    </testcase>
+    <testcase classname="updateFairRegistrationByProfileEditDto successful update" name="updateFairRegistrationByProfileEditDto successful update" time="0.002">
+    </testcase>
+    <testcase classname="updateFairRegistrationByProfileEditDto throw exception" name="updateFairRegistrationByProfileEditDto throw exception" time="0.002">
+    </testcase>
+  </testsuite>
+  <testsuite name="Participant Import" errors="0" failures="0" skipped="0" timestamp="2022-08-11T05:36:42" time="1.305" tests="23">
+    <testcase classname="Participant Import ORS Participant Import V1" name="Participant Import ORS Participant Import V1" time="0.001">
+    </testcase>
+    <testcase classname="Participant Import ORS Participant Import V2" name="Participant Import ORS Participant Import V2" time="0.001">
+    </testcase>
+    <testcase classname="Participant Import Test function checkMissingInput" name="Participant Import Test function checkMissingInput" time="0.001">
+    </testcase>
+    <testcase classname="Participant Import Test function checkInvalidInput" name="Participant Import Test function checkInvalidInput" time="0.001">
+    </testcase>
+    <testcase classname="Participant Import Test function updateParticipantWithSameRegNo" name="Participant Import Test function updateParticipantWithSameRegNo" time="0.001">
+    </testcase>
+    <testcase classname="Participant Import Test function updateParticipantWithDifferentRegNo" name="Participant Import Test function updateParticipantWithDifferentRegNo" time="0.001">
+    </testcase>
+    <testcase classname="Participant Import Test function updateParticipantWithSameRegNoR1AB2" name="Participant Import Test function updateParticipantWithSameRegNoR1AB2" time="0.001">
+    </testcase>
+    <testcase classname="Participant Import Test function updateParticipantWithDifferentRegNoR1AB2" name="Participant Import Test function updateParticipantWithDifferentRegNoR1AB2" time="0">
+    </testcase>
+    <testcase classname="Participant Import Test function updateParticipantR1AB2" name="Participant Import Test function updateParticipantR1AB2" time="0.001">
+    </testcase>
+    <testcase classname="Participant Import Test function createParticipant" name="Participant Import Test function createParticipant" time="0.001">
+    </testcase>
+    <testcase classname="Participant Import Test function createParticipantR1AB2" name="Participant Import Test function createParticipantR1AB2" time="0.001">
+    </testcase>
+    <testcase classname="Participant Import Test function insertParticipantToFairDB" name="Participant Import Test function insertParticipantToFairDB" time="0.001">
+    </testcase>
+    <testcase classname="Participant Import Test function updateParticipantToFairDB" name="Participant Import Test function updateParticipantToFairDB" time="0">
+    </testcase>
+    <testcase classname="Participant Import Test function updateParticipantToFairDBR1AB2" name="Participant Import Test function updateParticipantToFairDBR1AB2" time="0.001">
+    </testcase>
+    <testcase classname="Participant Import Test function checkTicketPassCodeExist" name="Participant Import Test function checkTicketPassCodeExist" time="0.005">
+    </testcase>
+    <testcase classname="Participant Import Test function convertToConferenceRegReq" name="Participant Import Test function convertToConferenceRegReq" time="0.002">
+    </testcase>
+    <testcase classname="Participant Import Test function convertToFairParticipantReq" name="Participant Import Test function convertToFairParticipantReq" time="0">
+    </testcase>
+    <testcase classname="Participant Import Test function convertToFairRegCustomQuestionReq" name="Participant Import Test function convertToFairRegCustomQuestionReq" time="0.001">
+    </testcase>
+    <testcase classname="Participant Import Test function convertToFairRegCustomQuestionReqR1AB2" name="Participant Import Test function convertToFairRegCustomQuestionReqR1AB2" time="0.001">
+    </testcase>
+    <testcase classname="Participant Import Test function convertToFairRegTicketPassReq" name="Participant Import Test function convertToFairRegTicketPassReq" time="0">
+    </testcase>
+    <testcase classname="Participant Import Test function checkRegistrationNumber" name="Participant Import Test function checkRegistrationNumber" time="0.001">
+    </testcase>
+    <testcase classname="Participant Import Test function checkSelectedFairWithRegNo" name="Participant Import Test function checkSelectedFairWithRegNo" time="0.001">
+    </testcase>
+    <testcase classname="Participant Import Test function checkRegNoWithExistingParticipant" name="Participant Import Test function checkRegNoWithExistingParticipant" time="0">
+    </testcase>
+  </testsuite>
+  <testsuite name="MultiLangHandler getFieldDetail should always return string in fieldValue" errors="0" failures="0" skipped="0" timestamp="2022-08-11T05:36:43" time="0.271" tests="28">
+    <testcase classname="MultiLangHandler getFieldDetail should always return string in fieldValue should get string result successful when input boolean" name="MultiLangHandler getFieldDetail should always return string in fieldValue should get string result successful when input boolean" time="0.001">
+    </testcase>
+    <testcase classname="MultiLangHandler getFieldDetail should always return string in fieldValue should get string result successful when input number" name="MultiLangHandler getFieldDetail should always return string in fieldValue should get string result successful when input number" time="0">
+    </testcase>
+    <testcase classname="MultiLangHandler getFieldDetail should always return string in fieldValue should get string result successful when input null" name="MultiLangHandler getFieldDetail should always return string in fieldValue should get string result successful when input null" time="0.001">
+    </testcase>
+    <testcase classname="MultiLangHandler test getFieldDetail by type should get field detail successful - field type &quot;tdc-checkbox-id&quot;" name="MultiLangHandler test getFieldDetail by type should get field detail successful - field type &quot;tdc-checkbox-id&quot;" time="0.001">
+    </testcase>
+    <testcase classname="MultiLangHandler test getFieldDetail by type should get field detail successful - field type &quot;generic-dropdown&quot;" name="MultiLangHandler test getFieldDetail by type should get field detail successful - field type &quot;generic-dropdown&quot;" time="0.001">
+    </testcase>
+    <testcase classname="MultiLangHandler test getFieldDetail by type should get field detail successful - field type &quot;select&quot; " name="MultiLangHandler test getFieldDetail by type should get field detail successful - field type &quot;select&quot; " time="0">
+    </testcase>
+    <testcase classname="MultiLangHandler test getFieldDetail by type should get accepted field value successful - field type &quot;generic-acceptance&quot; " name="MultiLangHandler test getFieldDetail by type should get accepted field value successful - field type &quot;generic-acceptance&quot; " time="0.001">
+    </testcase>
+    <testcase classname="MultiLangHandler test getFieldDetail by type should get empty accepted field successful - field type &quot;generic-acceptance&quot; " name="MultiLangHandler test getFieldDetail by type should get empty accepted field successful - field type &quot;generic-acceptance&quot; " time="0">
+    </testcase>
+    <testcase classname="MultiLangHandler test getFieldDetail by type should get form field value U with empty field value - field type &quot;generic-acceptance&quot; " name="MultiLangHandler test getFieldDetail by type should get form field value U with empty field value - field type &quot;generic-acceptance&quot; " time="0.001">
+    </testcase>
+    <testcase classname="MultiLangHandler test getFieldDetail by type should get accepted field value successful with field type &quot;hktdc-consent&quot; " name="MultiLangHandler test getFieldDetail by type should get accepted field value successful with field type &quot;hktdc-consent&quot; " time="0.001">
+    </testcase>
+    <testcase classname="MultiLangHandler test getFieldDetail by type should get empty accepted field successful with field type &quot;hktdc-consent&quot; " name="MultiLangHandler test getFieldDetail by type should get empty accepted field successful with field type &quot;hktdc-consent&quot; " time="0.001">
+    </testcase>
+    <testcase classname="MultiLangHandler test getFieldDetail by type should get value U with empty field value -  field type &quot;hktdc-consent&quot; " name="MultiLangHandler test getFieldDetail by type should get value U with empty field value -  field type &quot;hktdc-consent&quot; " time="0">
+    </testcase>
+    <testcase classname="MultiLangHandler test getFieldDetail by type should get value with currency label - field type &quot;currency&quot; " name="MultiLangHandler test getFieldDetail by type should get value with currency label - field type &quot;currency&quot; " time="0.001">
+    </testcase>
+    <testcase classname="MultiLangHandler test getFieldDetail by dedicate fields should get field detail successful with field name &quot;br_address_5_8.br_address_city&quot; " name="MultiLangHandler test getFieldDetail by dedicate fields should get field detail successful with field name &quot;br_address_5_8.br_address_city&quot; " time="0.001">
+    </testcase>
+    <testcase classname="MultiLangHandler test getFieldDetail by dedicate fields should get empty value field detail with field name &quot;br_address_5_8.br_address_city&quot; without giving enough information " name="MultiLangHandler test getFieldDetail by dedicate fields should get empty value field detail with field name &quot;br_address_5_8.br_address_city&quot; without giving enough information " time="0">
+    </testcase>
+    <testcase classname="MultiLangHandler test getFieldDetail by dedicate fields should get empty value field detail with field name &quot;br_address_5_8.br_address_city&quot; without additional info" name="MultiLangHandler test getFieldDetail by dedicate fields should get empty value field detail with field name &quot;br_address_5_8.br_address_city&quot; without additional info" time="0.001">
+    </testcase>
+    <testcase classname="MultiLangHandler test getFieldDetail by dedicate fields should get field detail successful with field name &quot;br_address_5_8.br_address_state&quot; " name="MultiLangHandler test getFieldDetail by dedicate fields should get field detail successful with field name &quot;br_address_5_8.br_address_state&quot; " time="0">
+    </testcase>
+    <testcase classname="MultiLangHandler test getFieldDetail by dedicate fields should get empty value field detail with field name &quot;br_address_5_8.br_address_city&quot; without giving enough information " name="MultiLangHandler test getFieldDetail by dedicate fields should get empty value field detail with field name &quot;br_address_5_8.br_address_city&quot; without giving enough information " time="0.001">
+    </testcase>
+    <testcase classname="MultiLangHandler test getFieldDetail by dedicate fields should get empty value field detail with field name &quot;br_address_5_8.br_address_city&quot; without additional info" name="MultiLangHandler test getFieldDetail by dedicate fields should get empty value field detail with field name &quot;br_address_5_8.br_address_city&quot; without additional info" time="0">
+    </testcase>
+    <testcase classname="MultiLangHandler test getFieldDetail by dedicate fields should get field detail successful with field name &quot;br_address_5_8.br_address_country&quot; " name="MultiLangHandler test getFieldDetail by dedicate fields should get field detail successful with field name &quot;br_address_5_8.br_address_country&quot; " time="0.006">
+    </testcase>
+    <testcase classname="Get field anchor logic should replace empty label with en when select en as anchor" name="Get field anchor logic should replace empty label with en when select en as anchor" time="0.001">
+    </testcase>
+    <testcase classname="Get field anchor logic should replace empty label with tc template label when select tc as anchor" name="Get field anchor logic should replace empty label with tc template label when select tc as anchor" time="0.001">
+    </testcase>
+    <testcase classname="Get field anchor logic should replace empty label with sc template label when select sc as anchor" name="Get field anchor logic should replace empty label with sc template label when select sc as anchor" time="0">
+    </testcase>
+    <testcase classname="MultiLangHandler test getFieldDetail by lang should get english text successful" name="MultiLangHandler test getFieldDetail by lang should get english text successful" time="0.001">
+    </testcase>
+    <testcase classname="MultiLangHandler test getFieldDetail by lang should get tc empty text successful" name="MultiLangHandler test getFieldDetail by lang should get tc empty text successful" time="0">
+    </testcase>
+    <testcase classname="MultiLangHandler test getFieldDetail by lang should get sc empty text successful" name="MultiLangHandler test getFieldDetail by lang should get sc empty text successful" time="0.001">
+    </testcase>
+    <testcase classname="fieldExistInAnyTemplate function should return true when form field found " name="fieldExistInAnyTemplate function should return true when form field found " time="0">
+    </testcase>
+    <testcase classname="fieldExistInAnyTemplate function should return false when form field found " name="fieldExistInAnyTemplate function should return false when form field found " time="0.001">
+    </testcase>
+  </testsuite>
+  <testsuite name="prepareEligibilityResponse" errors="0" failures="0" skipped="0" timestamp="2022-08-11T05:36:43" time="2.048" tests="31">
+    <testcase classname="prepareEligibilityResponse should get result from prepareRegistrationResult" name="prepareEligibilityResponse should get result from prepareRegistrationResult" time="0.002">
+    </testcase>
+    <testcase classname="test prepareRegistrationResult should return ELIGIBLE" name="test prepareRegistrationResult should return ELIGIBLE" time="0.01">
+    </testcase>
+    <testcase classname="test prepareRegistrationResult should return REGISTRATION_REJECTED_ACCOUNT_TEMPORARILY_RESTRICTED" name="test prepareRegistrationResult should return REGISTRATION_REJECTED_ACCOUNT_TEMPORARILY_RESTRICTED" time="0.001">
+    </testcase>
+    <testcase classname="test prepareRegistrationResult should return NOT_LOGGED_IN_EMAIL_ADDRESS_ALREADY_IN_USE" name="test prepareRegistrationResult should return NOT_LOGGED_IN_EMAIL_ADDRESS_ALREADY_IN_USE" time="0.001">
+    </testcase>
+    <testcase classname="test prepareRegistrationResult should return NOT_LOGGED_IN_ALREADY_REGISTERED_HAS_SSO_ACCOUNT" name="test prepareRegistrationResult should return NOT_LOGGED_IN_ALREADY_REGISTERED_HAS_SSO_ACCOUNT" time="0.003">
+    </testcase>
+    <testcase classname="test prepareRegistrationResult should return NOT_LOGGED_IN_ALREADY_REGISTERED_NO_SSO_ACCOUNT" name="test prepareRegistrationResult should return NOT_LOGGED_IN_ALREADY_REGISTERED_NO_SSO_ACCOUNT" time="0.001">
+    </testcase>
+    <testcase classname="test prepareRegistrationResult should return NOT_LOGGED_IN_EMAIL_ADDRESS_ALREADY_IN_USE" name="test prepareRegistrationResult should return NOT_LOGGED_IN_EMAIL_ADDRESS_ALREADY_IN_USE" time="0.002">
+    </testcase>
+    <testcase classname="test prepareRegistrationResult should return ELIGIBLE" name="test prepareRegistrationResult should return ELIGIBLE" time="0.001">
+    </testcase>
+    <testcase classname="checkIsWithinRegistrationPeriod should return true, with in organic buyer registration period" name="checkIsWithinRegistrationPeriod should return true, with in organic buyer registration period" time="0.006">
+    </testcase>
+    <testcase classname="checkIsWithinRegistrationPeriod should return false, with in organic buyer registration period" name="checkIsWithinRegistrationPeriod should return false, with in organic buyer registration period" time="0.001">
+    </testcase>
+    <testcase classname="prepareRegistrationResult should return NOT_LOGGED_IN_EMAIL_ADDRESS_ALREADY_IN_USE" name="prepareRegistrationResult should return NOT_LOGGED_IN_EMAIL_ADDRESS_ALREADY_IN_USE" time="0.007">
+    </testcase>
+    <testcase classname="prepareRegistrationResult should return ELIGIBLE for logined users without Registration Record" name="prepareRegistrationResult should return ELIGIBLE for logined users without Registration Record" time="0.002">
+    </testcase>
+    <testcase classname="prepareRegistrationResult should return NOT_LOGGED_IN_EMAIL_ADDRESS_ALREADY_IN_USE" name="prepareRegistrationResult should return NOT_LOGGED_IN_EMAIL_ADDRESS_ALREADY_IN_USE" time="0.003">
+    </testcase>
+    <testcase classname="prepareRegistrationResult should return ELIGIBLE if non-logined users, does not have registration record, no SSO account" name="prepareRegistrationResult should return ELIGIBLE if non-logined users, does not have registration record, no SSO account" time="0.002">
+    </testcase>
+    <testcase classname="checkIsEnabledToggle should return checkIsEnabledToggle for Organic Buyer" name="checkIsEnabledToggle should return checkIsEnabledToggle for Organic Buyer" time="0.003">
+    </testcase>
+    <testcase classname="checkIsEnabledToggle should return checkIsEnabledToggle for Mission Buyer" name="checkIsEnabledToggle should return checkIsEnabledToggle for Mission Buyer" time="0.002">
+    </testcase>
+    <testcase classname="checkIsEnabledToggle should return checkIsEnabledToggle for CIP Buyer" name="checkIsEnabledToggle should return checkIsEnabledToggle for CIP Buyer" time="0.001">
+    </testcase>
+    <testcase classname="checkIsEnabledToggle should return checkIsEnabledToggle for Seminar Long Form" name="checkIsEnabledToggle should return checkIsEnabledToggle for Seminar Long Form" time="0.001">
+    </testcase>
+    <testcase classname="checkIsEnabledToggle should return checkIsEnabledToggle for AOR Form" name="checkIsEnabledToggle should return checkIsEnabledToggle for AOR Form" time="0.002">
+    </testcase>
+    <testcase classname="checkIsWithinRegistrationPeriod should checkIsWithinRegistrationPeriod for Organic Buyer" name="checkIsWithinRegistrationPeriod should checkIsWithinRegistrationPeriod for Organic Buyer" time="0.002">
+    </testcase>
+    <testcase classname="checkIsWithinRegistrationPeriod should checkIsWithinRegistrationPeriod for Mission Buyer" name="checkIsWithinRegistrationPeriod should checkIsWithinRegistrationPeriod for Mission Buyer" time="0.001">
+    </testcase>
+    <testcase classname="checkIsWithinRegistrationPeriod should checkIsWithinRegistrationPeriod for CIP Buyer" name="checkIsWithinRegistrationPeriod should checkIsWithinRegistrationPeriod for CIP Buyer" time="0.002">
+    </testcase>
+    <testcase classname="checkIsWithinRegistrationPeriod should checkIsWithinRegistrationPeriod for Seminar Long Form" name="checkIsWithinRegistrationPeriod should checkIsWithinRegistrationPeriod for Seminar Long Form" time="0.001">
+    </testcase>
+    <testcase classname="checkIsWithinRegistrationPeriod should checkIsWithinRegistrationPeriod for Seminar AOR Form" name="checkIsWithinRegistrationPeriod should checkIsWithinRegistrationPeriod for Seminar AOR Form" time="0.002">
+    </testcase>
+    <testcase classname="checkRegistrationResultForSsoUser should check Eligibility Response as True if the formType is higher than existing one" name="checkRegistrationResultForSsoUser should check Eligibility Response as True if the formType is higher than existing one" time="0.002">
+    </testcase>
+    <testcase classname="checkRegistrationResultForSsoUser should return Eligibility Response Code if the formType is the same as the existing one for Organic Buyers" name="checkRegistrationResultForSsoUser should return Eligibility Response Code if the formType is the same as the existing one for Organic Buyers" time="0.002">
+    </testcase>
+    <testcase classname="checkRegistrationResultForSsoUser should return Eligibility Response Code if the formType is the same as the existing one for Mission Buyers" name="checkRegistrationResultForSsoUser should return Eligibility Response Code if the formType is the same as the existing one for Mission Buyers" time="0.002">
+    </testcase>
+    <testcase classname="checkRegistrationResultForSsoUser should return Eligibility Response Code if the formType is the same as the existing one for CIP Buyers" name="checkRegistrationResultForSsoUser should return Eligibility Response Code if the formType is the same as the existing one for CIP Buyers" time="0.002">
+    </testcase>
+    <testcase classname="checkRegistrationResultForSsoUser should return Eligibility Response Code if the formType is lower than the existing one" name="checkRegistrationResultForSsoUser should return Eligibility Response Code if the formType is lower than the existing one" time="0.001">
+    </testcase>
+    <testcase classname="isHigherPriorityForNotLoginedUsers should return true when the formType is higher than the existing one for non-loggined users" name="isHigherPriorityForNotLoginedUsers should return true when the formType is higher than the existing one for non-loggined users" time="0.002">
+    </testcase>
+    <testcase classname="isHigherPriorityForNotLoginedUsers should return false when the formType is lower than the existing one for non-loggined users" name="isHigherPriorityForNotLoginedUsers should return false when the formType is lower than the existing one for non-loggined users" time="0.001">
+    </testcase>
+  </testsuite>
+  <testsuite name="queryFairDb query part 1" errors="0" failures="0" skipped="0" timestamp="2022-08-11T05:36:45" time="19.801" tests="25">
+    <testcase classname="queryFairDb query part 1 returns valid results from queryFairRegByFairCodeSsoUid" name="queryFairDb query part 1 returns valid results from queryFairRegByFairCodeSsoUid" time="0.003">
+    </testcase>
+    <testcase classname="queryFairDb query part 1 returns valid results from queryFairRegByFairCodeEmail" name="queryFairDb query part 1 returns valid results from queryFairRegByFairCodeEmail" time="0.001">
+    </testcase>
+    <testcase classname="queryFairDb query part 1 returns valid results from queryFairRegByFairParticipantRegId" name="queryFairDb query part 1 returns valid results from queryFairRegByFairParticipantRegId" time="0.001">
+    </testcase>
+    <testcase classname="queryFairDb query part 1 returns valid results from queryFairRegByFairParticipantRegIds" name="queryFairDb query part 1 returns valid results from queryFairRegByFairParticipantRegIds" time="0.011">
+    </testcase>
+    <testcase classname="queryFairDb query part 1 returns valid results from updateC2MProfile" name="queryFairDb query part 1 returns valid results from updateC2MProfile" time="0.002">
+    </testcase>
+    <testcase classname="queryFairDb query part 1 returns valid results from updateFairParticipantRegistrationRecord" name="queryFairDb query part 1 returns valid results from updateFairParticipantRegistrationRecord" time="0.002">
+    </testcase>
+    <testcase classname="queryFairDb query part 1 returns valid results from updateFairParticipantRegistrationRecordStatusListByIds" name="queryFairDb query part 1 returns valid results from updateFairParticipantRegistrationRecordStatusListByIds" time="0.001">
+    </testcase>
+    <testcase classname="queryFairDb query part 1 returns valid results from updateFairRegRemarkById" name="queryFairDb query part 1 returns valid results from updateFairRegRemarkById" time="0.001">
+    </testcase>
+    <testcase classname="queryFairDb query part 2 returns valid results from queryFairParticipantRegistrations" name="queryFairDb query part 2 returns valid results from queryFairParticipantRegistrations" time="0.001">
+    </testcase>
+    <testcase classname="queryFairDb query part 2 returns valid results from queryActiveFairRegistrationsBySsoUid" name="queryFairDb query part 2 returns valid results from queryActiveFairRegistrationsBySsoUid" time="0.001">
+    </testcase>
+    <testcase classname="queryFairDb query part 2 returns valid results from queryActiveFairParticipantRegistrations" name="queryFairDb query part 2 returns valid results from queryActiveFairParticipantRegistrations" time="0.001">
+    </testcase>
+    <testcase classname="queryFairDb query part 2 returns valid results from queryFairRegStatusByRegStatusIds" name="queryFairDb query part 2 returns valid results from queryFairRegStatusByRegStatusIds" time="0.001">
+    </testcase>
+    <testcase classname="queryFairDb query part 2 returns valid results from updateRegistrationStatusByRegId" name="queryFairDb query part 2 returns valid results from updateRegistrationStatusByRegId" time="0.018">
+    </testcase>
+    <testcase classname="queryFairDb query part 2 returns valid results from queryC2mExcludedParticipants" name="queryFairDb query part 2 returns valid results from queryC2mExcludedParticipants" time="0.001">
+    </testcase>
+    <testcase classname="queryFairDb query part 3 returns valid results from constructCombinedFairQuery" name="queryFairDb query part 3 returns valid results from constructCombinedFairQuery" time="0.001">
+    </testcase>
+    <testcase classname="queryFairDb query part 3 returns valid results from contructSearchFairParticipantsProductCategoryList" name="queryFairDb query part 3 returns valid results from contructSearchFairParticipantsProductCategoryList" time="0.001">
+    </testcase>
+    <testcase classname="queryFairDb query part 3 returns valid results from contructSearchFairParticipantsProductCategoryList" name="queryFairDb query part 3 returns valid results from contructSearchFairParticipantsProductCategoryList" time="0.001">
+    </testcase>
+    <testcase classname="queryFairDb query part 3 returns valid results from getHiddenRecordList" name="queryFairDb query part 3 returns valid results from getHiddenRecordList" time="0.001">
+    </testcase>
+    <testcase classname="queryFairDb query part 4 returns valid results from searchFairParticipantsFilterOptionDbQuery" name="queryFairDb query part 4 returns valid results from searchFairParticipantsFilterOptionDbQuery" time="0.001">
+    </testcase>
+    <testcase classname="queryFairDb query part 4 returns valid results from searchFairParticipantsDbQuery" name="queryFairDb query part 4 returns valid results from searchFairParticipantsDbQuery" time="0.001">
+    </testcase>
+    <testcase classname="queryFairDb query part 4 returns valid results from retrieveVisitorTypeCodeList" name="queryFairDb query part 4 returns valid results from retrieveVisitorTypeCodeList" time="0.001">
+    </testcase>
+    <testcase classname="queryFairDb query part 4 returns valid results from invalidateFairRegistration" name="queryFairDb query part 4 returns valid results from invalidateFairRegistration" time="0.002">
+    </testcase>
+    <testcase classname="queryFairDb query part 4 returns valid results from getFairParticipantByEmailId" name="queryFairDb query part 4 returns valid results from getFairParticipantByEmailId" time="0">
+    </testcase>
+    <testcase classname="queryFairDb query part 4 returns valid results from linkFairParticipantSsoUidByEmailId" name="queryFairDb query part 4 returns valid results from linkFairParticipantSsoUidByEmailId" time="0.002">
+    </testcase>
+    <testcase classname="queryFairDb query part 5 returns valid results from getSSOAutoHandlingField" name="queryFairDb query part 5 returns valid results from getSSOAutoHandlingField" time="0.001">
+    </testcase>
+  </testsuite>
+  <testsuite name="retrieveFairSetting" errors="0" failures="0" skipped="0" timestamp="2022-08-11T05:37:05" time="2.036" tests="33">
+    <testcase classname="retrieveFairSetting Verify contentQuery is called" name="retrieveFairSetting Verify contentQuery is called" time="0.001">
+    </testcase>
+    <testcase classname="retrieveFairSetting Verify contentQuery is rejected" name="retrieveFairSetting Verify contentQuery is rejected" time="0.001">
+    </testcase>
+    <testcase classname="retrieveFairSettingHandlder Verify contentQuery is called" name="retrieveFairSettingHandlder Verify contentQuery is called" time="0.001">
+    </testcase>
+    <testcase classname="retrieveFairSettingHandlder Verify contentQuery is rejected" name="retrieveFairSettingHandlder Verify contentQuery is rejected" time="0.001">
+    </testcase>
+    <testcase classname="retrieveDummyFormTemplate Verify contentQuery is called" name="retrieveDummyFormTemplate Verify contentQuery is called" time="0.001">
+    </testcase>
+    <testcase classname="retrieveDummyFormTemplate Verify contentQuery is rejected" name="retrieveDummyFormTemplate Verify contentQuery is rejected" time="0.001">
+    </testcase>
+    <testcase classname="retrieveFormTemplate Verify contentQuery is called" name="retrieveFormTemplate Verify contentQuery is called" time="0.001">
+    </testcase>
+    <testcase classname="retrieveFormTemplate Verify contentQuery is rejected" name="retrieveFormTemplate Verify contentQuery is rejected" time="0.001">
+    </testcase>
+    <testcase classname="retrieveFormTemplateByShortSlug Verify contentQuery is called" name="retrieveFormTemplateByShortSlug Verify contentQuery is called" time="0.001">
+    </testcase>
+    <testcase classname="retrieveFormTemplateByShortSlug Verify contentQuery is rejected" name="retrieveFormTemplateByShortSlug Verify contentQuery is rejected" time="0.001">
+    </testcase>
+    <testcase classname="returnMultiLangTemplate Verify retrieveFormTemplateByShortSlug is called 3 times" name="returnMultiLangTemplate Verify retrieveFormTemplateByShortSlug is called 3 times" time="0.001">
+    </testcase>
+    <testcase classname="returnMultiLangTemplate Verify is called 3 times" name="returnMultiLangTemplate Verify is called 3 times" time="0.001">
+    </testcase>
+    <testcase classname="retrieveCouncilwiseDataBy Verify contentQuery is called" name="retrieveCouncilwiseDataBy Verify contentQuery is called" time="0.001">
+    </testcase>
+    <testcase classname="retrieveCouncilwiseDataBy Verify contentQuery is rejected" name="retrieveCouncilwiseDataBy Verify contentQuery is rejected" time="0.008">
+    </testcase>
+    <testcase classname="retrieveCouncilwiseProvinceBy Verify contentQuery is called" name="retrieveCouncilwiseProvinceBy Verify contentQuery is called" time="0.003">
+    </testcase>
+    <testcase classname="retrieveCouncilwiseProvinceBy Verify contentQuery is rejected" name="retrieveCouncilwiseProvinceBy Verify contentQuery is rejected" time="0.001">
+    </testcase>
+    <testcase classname="retrieveCouncilwiseCityBy Verify contentQuery is called" name="retrieveCouncilwiseCityBy Verify contentQuery is called" time="0.001">
+    </testcase>
+    <testcase classname="retrieveCouncilwiseCityBy Verify contentQuery is rejected" name="retrieveCouncilwiseCityBy Verify contentQuery is rejected" time="0.002">
+    </testcase>
+    <testcase classname="retrieveStructureTagDataByTeCode Verify contentQuery is called" name="retrieveStructureTagDataByTeCode Verify contentQuery is called" time="0.001">
+    </testcase>
+    <testcase classname="retrieveStructureTagDataByTeCode Verify contentQuery is rejected" name="retrieveStructureTagDataByTeCode Verify contentQuery is rejected" time="0.001">
+    </testcase>
+    <testcase classname="retrieveStructureTagDataByTeCode Verify contentQuery is not called when empty teCode" name="retrieveStructureTagDataByTeCode Verify contentQuery is not called when empty teCode" time="0.001">
+    </testcase>
+    <testcase classname="retrieveStructureTagDataByFairCode Verify contentQuery is called" name="retrieveStructureTagDataByFairCode Verify contentQuery is called" time="0.003">
+    </testcase>
+    <testcase classname="retrieveStructureTagDataByFairCode Verify contentQuery is rejected" name="retrieveStructureTagDataByFairCode Verify contentQuery is rejected" time="0.001">
+    </testcase>
+    <testcase classname="retrieveStructureTagDataByFairCode Verify contentQuery is not called when empty fair code string" name="retrieveStructureTagDataByFairCode Verify contentQuery is not called when empty fair code string" time="0.001">
+    </testcase>
+    <testcase classname="retrieveStructureTagDataById Verify contentQuery is called" name="retrieveStructureTagDataById Verify contentQuery is called" time="0.001">
+    </testcase>
+    <testcase classname="retrieveStructureTagDataById Verify contentQuery is rejected" name="retrieveStructureTagDataById Verify contentQuery is rejected" time="0.001">
+    </testcase>
+    <testcase classname="retrieveStructureTagDataById Verify contentQuery is not called when empty stId" name="retrieveStructureTagDataById Verify contentQuery is not called when empty stId" time="0">
+    </testcase>
+    <testcase classname="retrieveSsoDataBy Verify contentQuery is called" name="retrieveSsoDataBy Verify contentQuery is called" time="0.001">
+    </testcase>
+    <testcase classname="retrieveSsoDataBy Verify contentQuery is rejected" name="retrieveSsoDataBy Verify contentQuery is rejected" time="0.001">
+    </testcase>
+    <testcase classname="retrieveRawJson Verify contentQuery is called" name="retrieveRawJson Verify contentQuery is called" time="0.001">
+    </testcase>
+    <testcase classname="retrieveRawJson Verify contentQuery is rejected" name="retrieveRawJson Verify contentQuery is rejected" time="0.001">
+    </testcase>
+    <testcase classname="contentQuery call return success" name="contentQuery call return success" time="0.003">
+    </testcase>
+    <testcase classname="contentQuery call return fail" name="contentQuery call return fail" time="0.002">
+    </testcase>
+  </testsuite>
+  <testsuite name="Buyer Import Tasks" errors="0" failures="0" skipped="0" timestamp="2022-08-11T05:37:07" time="5.095" tests="3">
+    <testcase classname="Buyer Import Tasks Get All Buyer Import Tasks" name="Buyer Import Tasks Get All Buyer Import Tasks" time="0.002">
+    </testcase>
+    <testcase classname="Buyer Import Tasks Should successfully post buyer import task" name="Buyer Import Tasks Should successfully post buyer import task" time="0.001">
+    </testcase>
+    <testcase classname="Buyer Import Tasks Should successfully update buyer import task" name="Buyer Import Tasks Should successfully update buyer import task" time="0.012">
+    </testcase>
+  </testsuite>
+  <testsuite name="Unit tests for fair service" errors="0" failures="0" skipped="0" timestamp="2022-08-11T05:37:13" time="2.396" tests="5">
+    <testcase classname="Unit tests for fair service getActiveFairs : Current date is not within hybrid fair period - should return empty array" name="Unit tests for fair service getActiveFairs : Current date is not within hybrid fair period - should return empty array" time="0.005">
+    </testcase>
+    <testcase classname="Unit tests for fair service getActiveFairs : Current date is within hybrid fair period - should return hkjewellery and hkdgp" name="Unit tests for fair service getActiveFairs : Current date is within hybrid fair period - should return hkjewellery and hkdgp" time="0.002">
+    </testcase>
+    <testcase classname="Unit tests for fair service getBeforeFairs : Current date is before hybrid fair period - should return hkjewellery and hkdgp" name="Unit tests for fair service getBeforeFairs : Current date is before hybrid fair period - should return hkjewellery and hkdgp" time="0.001">
+    </testcase>
+    <testcase classname="Unit tests for fair service getBeforeFairs : Current date is after hybrid fair period - should return empty array" name="Unit tests for fair service getBeforeFairs : Current date is after hybrid fair period - should return empty array" time="0.001">
+    </testcase>
+    <testcase classname="Unit tests for fair service getBeforeFairs : Current date is before hkjewellery&apos;s hybrid end date before after hkdgp&apos;s hybrid end date - should return hkjewellery and hkdgp" name="Unit tests for fair service getBeforeFairs : Current date is before hkjewellery&apos;s hybrid end date before after hkdgp&apos;s hybrid end date - should return hkjewellery and hkdgp" time="0.001">
+    </testcase>
+  </testsuite>
+  <testsuite name="SettingHandler retieveFairSettingStrByKey" errors="0" failures="0" skipped="0" timestamp="2022-08-11T05:37:15" time="2.538" tests="6">
+    <testcase classname="SettingHandler retieveFairSettingStrByKey should return valid SettingStrByKey" name="SettingHandler retieveFairSettingStrByKey should return valid SettingStrByKey" time="0.003">
+    </testcase>
+    <testcase classname="SettingHandler retieveFairSettingStrByKey should return error when key is not found, SettingStrByKey" name="SettingHandler retieveFairSettingStrByKey should return error when key is not found, SettingStrByKey" time="0.001">
+    </testcase>
+    <testcase classname="SettingHandler retieveFairSettingObjByKey should return valid SettingStrByKey" name="SettingHandler retieveFairSettingObjByKey should return valid SettingStrByKey" time="0.004">
+    </testcase>
+    <testcase classname="SettingHandler retieveFairSettingObjByKey should return error when key is not found, SettingStrByKey" name="SettingHandler retieveFairSettingObjByKey should return error when key is not found, SettingStrByKey" time="0.001">
+    </testcase>
+    <testcase classname="SettingHandler retrieveShortSlugForProfileEdit should return valid short slug" name="SettingHandler retrieveShortSlugForProfileEdit should return valid short slug" time="0.006">
+    </testcase>
+    <testcase classname="SettingHandler retrieveShortSlugForProfileEdit should return error when fairParticipantTypeId is invalid" name="SettingHandler retrieveShortSlugForProfileEdit should return error when fairParticipantTypeId is invalid" time="0.002">
+    </testcase>
+  </testsuite>
+  <testsuite name="Check captcha verification" errors="0" failures="0" skipped="0" timestamp="2022-08-11T05:37:18" time="2.245" tests="2">
+    <testcase classname="Check captcha verification Should return the response showing success" name="Check captcha verification Should return the response showing success" time="0.004">
+    </testcase>
+    <testcase classname="Check captcha verification Should return error when some fields are missing or invalid " name="Check captcha verification Should return error when some fields are missing or invalid " time="0.001">
+    </testcase>
+  </testsuite>
+  <testsuite name="Unit tests for Logger Service" errors="0" failures="0" skipped="0" timestamp="2022-08-11T05:37:20" time="1.688" tests="4">
+    <testcase classname="Unit tests for Logger Service Verify the console.log is called" name="Unit tests for Logger Service Verify the console.log is called" time="0.015">
+    </testcase>
+    <testcase classname="Unit tests for Logger Service Verify the _log is called" name="Unit tests for Logger Service Verify the _log is called" time="0.013">
+    </testcase>
+    <testcase classname="Unit tests for Logger Service Verify the _log function in INFO is called" name="Unit tests for Logger Service Verify the _log function in INFO is called" time="0.01">
+    </testcase>
+    <testcase classname="Unit tests for Logger Service Verify the _log function in WARN is called" name="Unit tests for Logger Service Verify the _log function in WARN is called" time="0.01">
+    </testcase>
+  </testsuite>
+  <testsuite name="GenerateInitial" errors="0" failures="0" skipped="0" timestamp="2022-08-11T05:37:22" time="2.719" tests="10">
+    <testcase classname="GenerateInitial should return empty string if firstname, lastname are empty" name="GenerateInitial should return empty string if firstname, lastname are empty" time="0.005">
+    </testcase>
+    <testcase classname="GenerateInitial should return first char of firstname if lastname are empty" name="GenerateInitial should return first char of firstname if lastname are empty" time="0.001">
+    </testcase>
+    <testcase classname="GenerateInitial should return first char of lastname when lastname is alphabet and firstname is empty" name="GenerateInitial should return first char of lastname when lastname is alphabet and firstname is empty" time="0.004">
+    </testcase>
+    <testcase classname="GenerateInitial should return initial when firstname, lastname is alphabet" name="GenerateInitial should return initial when firstname, lastname is alphabet" time="0.002">
+    </testcase>
+    <testcase classname="GenerateInitial should return first char of lastname when lastname is not alphabet" name="GenerateInitial should return first char of lastname when lastname is not alphabet" time="0.003">
+    </testcase>
+    <testcase classname="GenerateDisplayName can construct name for CJK first name last name" name="GenerateDisplayName can construct name for CJK first name last name" time="0.002">
+    </testcase>
+    <testcase classname="GenerateDisplayName can construct name for non CJK first name last name" name="GenerateDisplayName can construct name for non CJK first name last name" time="0.006">
+    </testcase>
+    <testcase classname="testCJK should return true if input is CJK string" name="testCJK should return true if input is CJK string" time="0.001">
+    </testcase>
+    <testcase classname="testCJK should return false if input is not a CJK string" name="testCJK should return false if input is not a CJK string" time="0.001">
+    </testcase>
+    <testcase classname="testCJK should return false if input non a string" name="testCJK should return false if input non a string" time="0.005">
+    </testcase>
+  </testsuite>
+  <testsuite name="Unit tests for S3Service Service" errors="0" failures="0" skipped="0" timestamp="2022-08-11T05:37:24" time="3.49" tests="1">
+    <testcase classname="Unit tests for S3Service Service if cannot found file for getFile" name="Unit tests for S3Service Service if cannot found file for getFile" time="1.417">
+    </testcase>
+  </testsuite>
+  <testsuite name="SbeService" errors="0" failures="0" skipped="0" timestamp="2022-08-11T05:37:28" time="1.574" tests="1">
+    <testcase classname="SbeService should be defined" name="SbeService should be defined" time="0.019">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2022-08-11T05:37:30" time="1.334" tests="1">
+    <testcase classname=" adds 1 + 2 to equal 3" name=" adds 1 + 2 to equal 3" time="0.001">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2022-08-11T05:37:31" time="1.355" tests="1">
+    <testcase classname=" adds 1 + 2 to equal 3" name=" adds 1 + 2 to equal 3" time="0.001">
+    </testcase>
+  </testsuite>
+</testsuites>

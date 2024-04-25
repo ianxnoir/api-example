@@ -1,0 +1,80 @@
+﻿CODE,DESC,CAT
+00,Onsite Registered Visitor,Buyer
+01,Visitor,Buyer
+02,No Show Pre-reg Buyers,Buyer
+03,Past Visitor (Last year),Buyer
+04,Past Visitor (2 years ago),Buyer
+05,Past Visitor (3 years ago),Buyer
+06,Past Visitor (Frequent Company),Buyer
+07,Past Visitor (Frequent Buyer),Buyer
+08,Past Visitor (Alternate fair - last year),Buyer
+09,Past Buyer - Dormant (Alternate Edition),Buyer
+10,Past Buyer - Dormant (Past 4 yrs or up buyers),Buyer
+11,Potential Buyers? (Never register/ Event Code/ Product Code),Buyer
+12,Airport Buffer Hall Visitor,Buyer
+13,Octopus Cards (Premier Cards Programme) Visitor,Buyer
+14,Roadshow Enquiry,Buyer
+15,VP - Asia Miles,Buyer
+16,VP - Buying Mission,Buyer
+17,VP - Carpet Coverage,Buyer
+18,VP - Dragon Lounge,Buyer
+19,VP - Local TM,Buyer
+20,VP - Offsite,Buyer
+21,VP - Sponsored Buyer,Buyer
+22,Top Importer,Buyer
+23,Sponsorship,Buyer
+24,Sponsorship - Hosted Guest (3 Nights),Buyer
+25,Sponsorship - Hosted Guest (4 Nights),Buyer
+26,Sponsorship - Buying Mission (Hotel),Buyer
+27,Sponsorship - Buying Mission (Cash),Buyer
+28,Sponsorship - Nominated Guest,Buyer
+29,Paid Visitor,Buyer
+30,Seminar Visitor,Buyer
+31,Conference - Visitor,Buyer
+32,Conference - Workshops Participants,Buyer
+33,Marcom - Google SEM,Buyer
+34,Marcom - Internal SMS,Buyer
+35,Marcom - Facebook/WeChat,Buyer
+36,Marcom - eDM,Buyer
+37,Special Events Visitor,Buyer
+38,Contingency Barcode Visitor,Buyer
+39,Marcom - LinkedIn,Buyer
+40,Marcom - Gmail,Buyer
+41,Marcom - Yahoo SEM,Buyer
+42,Marcom - Location based SMS,Buyer
+43,Marcom - WeChat,Buyer
+44,Marcom - Baidu SEM,Buyer
+45,Marcom - Print Ad,Buyer
+46,Marcom - Banner Ad,Buyer
+47,Marcom - Mobile Ad,Buyer
+48,Marcom - Event Listing Site,Buyer
+49,Marcom - Others,Buyer
+50,Online Media,Buyer
+51,KOL,Buyer
+58,Past Visitor - Inactive in DATES,Buyer
+59,Octopus Cards (Fair New Buyer Programme) Visitor,Buyer
+61,VIP,VIP
+62,VIP - Dragon Lounge,VIP
+63,VIP - Speaker,VIP
+70,Deal Flow Visitors,Other Buyer
+71,Workshop participants,Other Buyer
+72,Fashion Show Attendee,Other Buyer
+73,HK Asian Pop Music Festival Visitor,Other Buyer
+74,Speaker,Other Buyer
+75,Guest,Other Buyer
+76,Oversea Delegation,Other Buyer
+77,Mainland Delegation,Other Buyer
+80,Exhibitor,Exhibitor
+81,Exhibitor (Storage),Exhibitor
+A2,Advisor,Exhibitor
+A3,Co-Organiser/ JV Organiser/ Supporting Organiser,Exhibitor
+A7,Transportation Forwarder,Exhibitor
+A8,Freight Forwarder,Exhibitor
+A1,Staff,Miscellaneous
+A5,Tempoary Staff,Miscellaneous
+A4,Partner,Miscellaneous
+A6,Security/Customs/Police,Miscellaneous
+60,Media/Press/Journalist,Miscellaneous
+78,Student/ Public Visitor,Miscellaneous
+F1,ORS Only Registratrion Form,ORS Form Template
+F2,ORS Only Registratrion Form (non 21 Type),ORS Form Template

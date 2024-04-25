@@ -1,0 +1,392 @@
+{
+    "code": {
+        "00": {
+            "code": "00",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "GENERAL"
+        },
+        "01": {
+            "code": "01",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "GENERAL"
+        },
+        "02": {
+            "code": "02",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "PAST"
+        },
+        "03": {
+            "code": "03",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "PAST"
+        },
+        "04": {
+            "code": "04",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "PAST"
+        },
+        "05": {
+            "code": "05",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "PAST"
+        },
+        "06": {
+            "code": "06",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "PAST"
+        },
+        "07": {
+            "code": "07",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "PAST"
+        },
+        "08": {
+            "code": "08",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "PAST"
+        },
+        "09": {
+            "code": "09",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "PAST"
+        },
+        "10": {
+            "code": "10",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "PAST"
+        },
+        "11": {
+            "code": "11",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "PAST"
+        },
+        "12": {
+            "code": "12",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "PAST"
+        },
+        "13": {
+            "code": "13",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "PAST"
+        },
+        "14": {
+            "code": "14",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "GENERAL"
+        },
+        "15": {
+            "code": "15",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "GENERAL"
+        },
+        "16": {
+            "code": "16",
+            "fairParticipantTypeCode": "VIP_MISSION"
+        },
+        "17": {
+            "code": "17",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "GENERAL"
+        },
+        "18": {
+            "code": "18",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "GENERAL"
+        },
+        "19": {
+            "code": "19",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "GENERAL"
+        },
+        "20": {
+            "code": "20",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "GENERAL"
+        },
+        "21": {
+            "code": "21",
+            "fairParticipantTypeCode": "VIP_CIP"
+        },
+        "22": {
+            "code": "22",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "PAST"
+        },
+        "23": {
+            "code": "23",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "GENERAL"
+        },
+        "24": {
+            "code": "24",
+            "fairParticipantTypeCode": "VIP_MISSION"
+        },
+        "25": {
+            "code": "25",
+            "fairParticipantTypeCode": "VIP_MISSION"
+        },
+        "26": {
+            "code": "26",
+            "fairParticipantTypeCode": "VIP_MISSION"
+        },
+        "27": {
+            "code": "27",
+            "fairParticipantTypeCode": "VIP_MISSION"
+        },
+        "28": {
+            "code": "28",
+            "fairParticipantTypeCode": "VIP_MISSION"
+        },
+        "29": {
+            "code": "29",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "GENERAL"
+        },
+        "30": {
+            "code": "30",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "GENERAL"
+        },
+        "31": {
+            "code": "31",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "GENERAL"
+        },
+        "32": {
+            "code": "32",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "GENERAL"
+        },
+        "33": {
+            "code": "33",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "GENERAL"
+        },
+        "34": {
+            "code": "34",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "GENERAL"
+        },
+        "35": {
+            "code": "35",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "GENERAL"
+        },
+        "36": {
+            "code": "36",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "GENERAL"
+        },
+        "37": {
+            "code": "37",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "GENERAL"
+        },
+        "38": {
+            "code": "38",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "GENERAL"
+        },
+        "39": {
+            "code": "39",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "GENERAL"
+        },
+        "40": {
+            "code": "40",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "GENERAL"
+        },
+        "41": {
+            "code": "41",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "GENERAL"
+        },
+        "42": {
+            "code": "42",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "GENERAL"
+        },
+        "43": {
+            "code": "43",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "GENERAL"
+        },
+        "44": {
+            "code": "44",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "GENERAL"
+        },
+        "45": {
+            "code": "45",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "GENERAL"
+        },
+        "46": {
+            "code": "46",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "GENERAL"
+        },
+        "47": {
+            "code": "47",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "GENERAL"
+        },
+        "48": {
+            "code": "48",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "GENERAL"
+        },
+        "49": {
+            "code": "49",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "GENERAL"
+        },
+        "50": {
+            "code": "50",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "GENERAL"
+        },
+        "51": {
+            "code": "51",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "GENERAL"
+        },
+        "58": {
+            "code": "58",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "GENERAL"
+        },
+        "59": {
+            "code": "59",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": "GENERAL"
+        },
+        "60": {
+            "code": "60",
+            "fairParticipantTypeCode": "",
+            "tier": ""
+        },
+        "61": {
+            "code": "61",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": ""
+        },
+        "62": {
+            "code": "62",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": ""
+        },
+        "63": {
+            "code": "63",
+            "fairParticipantTypeCode": "ORGANIC",
+            "tier": ""
+        },
+        "70": {
+            "code": "70",
+            "fairParticipantTypeCode": "",
+            "tier": ""
+        },
+        "71": {
+            "code": "71",
+            "fairParticipantTypeCode": "",
+            "tier": ""
+        },
+        "72": {
+            "code": "72",
+            "fairParticipantTypeCode": "",
+            "tier": ""
+        },
+        "73": {
+            "code": "73",
+            "fairParticipantTypeCode": "",
+            "tier": ""
+        },
+        "74": {
+            "code": "74",
+            "fairParticipantTypeCode": "",
+            "tier": ""
+        },
+        "75": {
+            "code": "75",
+            "fairParticipantTypeCode": "",
+            "tier": ""
+        },
+        "76": {
+            "code": "76",
+            "fairParticipantTypeCode": "",
+            "tier": ""
+        },
+        "77": {
+            "code": "77",
+            "fairParticipantTypeCode": "",
+            "tier": ""
+        },
+        "78": {
+            "code": "78",
+            "fairParticipantTypeCode": "",
+            "tier": ""
+        },
+        "80": {
+            "code": "80",
+            "fairParticipantTypeCode": "Exhibitor",
+            "tier": ""
+        },
+        "81": {
+            "code": "81",
+            "fairParticipantTypeCode": "Exhibitor",
+            "tier": ""
+        },
+        "A1": {
+            "code": "A1",
+            "fairParticipantTypeCode": "",
+            "tier": ""
+        }, 
+        "A2": {
+            "code": "A2",
+            "fairParticipantTypeCode": "",
+            "tier": ""
+        }, 
+        "A3": {
+            "code": "A3",
+            "fairParticipantTypeCode": "",
+            "tier": ""
+        },
+        "A4": {
+            "code": "A4",
+            "fairParticipantTypeCode": "",
+            "tier": ""
+        }, 
+        "A5": {
+            "code": "A5",
+            "fairParticipantTypeCode": "",
+            "tier": ""
+        }, 
+        "A6": {
+            "code": "A6",
+            "fairParticipantTypeCode": "",
+            "tier": ""
+        }, 
+        "A7": {
+            "code": "A7",
+            "fairParticipantTypeCode": "",
+            "tier": ""
+        }, 
+        "A8": {
+            "code": "A8",
+            "fairParticipantTypeCode": "",
+            "tier": ""
+        }, 
+        "F1": {
+            "code": "F1",
+            "fairParticipantTypeCode": "",
+            "tier": ""
+        }, 
+        "F2": {
+            "code": "F2",
+            "fairParticipantTypeCode": "",
+            "tier": ""
+        }
+    }
+}
